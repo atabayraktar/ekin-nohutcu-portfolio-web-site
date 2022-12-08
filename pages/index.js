@@ -88,9 +88,9 @@ export default function Home() {
         <div className='main-title'>
           EKIN NOHUTCU PORTFOLIO
           <div className='account-links'>
-            <a href=""> <Image src={GitHub} className="img" /> </a>
-            <a href=""> <Image src={CV} className="img" />  </a>
-            <a href=""> <Image src={LinkedIn} className="img" /> </a>
+            <a href="https://github.com/ekinnohutcu" target="_blank"> <Image src={GitHub} className="img" /> </a>
+            <a href="Ekin_Nohutcu_CV.pdf" target="_blank"> <Image src={CV} className="img" />  </a>
+            <a href="https://www.linkedin.com/in/ekin-nohutçu-73142a139" target="_blank"> <Image src={LinkedIn} className="img" /> </a>
           </div>
         </div>
         {projects.map((project, index) => (
