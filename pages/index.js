@@ -42,7 +42,50 @@ export default function Home() {
     { title: "VACUUM SEAL", color: "red", description: "It's time to save some space! Put the items in the bag and vacuum seal it to reduce its size. Be careful though, you might rip the bag and have to start over if you vacuum it too much.", image: VacummSeal, side: "right", appStoreLink: "https://apps.apple.com/tr/app/vacuum-seal/id1552002468?l=tr", googlePlayLink: "", youtubeLink: "", link: "" },
     { title: "HYPER BUSTER", color: "red", description: "Make movie recommendations to customers according to their likes and interests, Burn new DVD's to stay up to date on latest releases, Clean up and polish returned discs. If you're good at your job, the line will extend all the way down the block!", image: HyperBuster, side: "left", appStoreLink: "https://apps.apple.com/tr/app/hyper-buster/id1543359910?l=tr", googlePlayLink: "", youtubeLink: "", link: "" },
     { title: "BOUNCE IT 3D", color: "purple", description: "Easy to learn but hard to master! Can you reach Level 42?", image: BounceIt3D, side: "right", appStoreLink: "https://apps.apple.com/tr/app/bounce-it-3d/id1530921584?l=tr", googlePlayLink: "", youtubeLink: "https://drive.google.com/file/d/17J74mMwsBlRpvgKTa_BGDudl-SFAFpIj/view?usp=sharing", link: "" },
-    { title: "CLIMATE CHANGER", color: "red", description: "Will you save the environment or let it burn? Choose between planting trees or cutting them down, riding a bike or riding a monster truck and shape the world as you desire. Simply move your character left or right to make your choices and get to the end to see your results. Have fun!", image: ClimateChanger, side: "left", appStoreLink: "https://apps.apple.com/tr/app/climate-changer/id1576882149?l=tr", googlePlayLink: "", youtubeLink: "https://youtube.com/shorts/8N0JrebT8lY?feature=share", link: "" }]
+    { title: "CLIMATE CHANGER", color: "red", description: "Will you save the environment or let it burn? Choose between planting trees or cutting them down, riding a bike or riding a monster truck and shape the world as you desire. Simply move your character left or right to make your choices and get to the end to see your results. Have fun!", image: ClimateChanger, side: "left", appStoreLink: "https://apps.apple.com/tr/app/climate-changer/id1576882149?l=tr", googlePlayLink: "", youtubeLink: "https://youtube.com/shorts/8N0JrebT8lY?feature=share", link: "" },
+{ title: "NEW NORMAL", color: "green", description: "Our subconscious has a New Normal! We held on to dear life in ways of the New Normal. Now, the time has come to harvest those blossoming products which grew upon the earth that we called quarantine. We created this microsite as if it was the subconsciousness of this pandemic to leave a mark in eternity. New Normal is an immortal and virus-free place that we have created together.", image: NewNormal, side: "left", appStoreLink: "", googlePlayLink: "", youtubeLink: "", link: "https://afterwork.house/newnormal/" },
+
+{ title: "SAVIOR", color: "green", description: "It is an advanture game which took place in an ancient world. You have to save the Koi fish and carry him to The Pool of Life.", image: Savior, side: "left", appStoreLink: "", googlePlayLink: "", youtubeLink: "", link: "https://ekinohutcu.itch.io/savior" },
+
+{ title: "TAKE ME UP!", color: "green", description: "Ludum Dare 43 Game Jam Project
+rabbit wants to go up, only you can save it. you need to grab it by holding the 'space' button and carry with arrows. but be careful, you are not that strong!", image: TakeMeUp, side: "left", appStoreLink: "", googlePlayLink: "", youtubeLink: "", link: "https://ekinohutcu.itch.io/take-me-up" },
+
+  { title: "POOR PIGGY", color: "green", description: "The game for LudumDare45. A Piggy Bank who wants to be a real Pig.
+Looking to the Pig Farm. But he needs money!! Help Mr. Piggy Bank to Collect enough money to quit to house for Pig Farm. He is just a Poor Piggy. ", image: PoorPiggy, side: "left", appStoreLink: "", googlePlayLink: "", youtubeLink: "", link: "https://ekinohutcu.itch.io/poor-piggy" },
+
+      { title: "GELIN VS KAYNANA", color: "green", description: "This game was made in  ITU FROST JAM. It is a 2D simple fighter game made for PC. ", image: GelinvsKaynana, side: "left", appStoreLink: "", googlePlayLink: "", youtubeLink: "", link: "https://ekinohutcu.itch.io/gelin-vs-kaynana" },
+
+ { title: "UNFINISHED", color: "green", description: "THIS PROJECT IS ALSO AN UNFINISHED PROJECT. unfinished project is an exhibition which contains unfinished projects of artists. thank you to all artists who sent me their unfinished works without hesitation. now your works have their world on the internet that they can rest forever", image: Unfinished, side: "left", appStoreLink: "", googlePlayLink: "", youtubeLink: "", link: "https://ekinohutcu.itch.io/unfinished" },
+
+ { title: "SILLY LEGS", color: "green", description: "Ever wondered what would happen if your legs turned into ropes and you had to walk across the street?
+Good news is you can see how that would look like:
+- Tap and drag to launch your feet one by one
+- Avoid cars and other obstacles
+- Make your way across town! ", image: SillyLegs, side: "left", appStoreLink: "", googlePlayLink: "", youtubeLink: "", link: "" },
+
+ { title: "SWITCH MINER", color: "green", description: "
+Mine your way down and break through whatever obstacle you face. You need to pick the right tool for the job or others will claim your treasure! ", image: SwitchMiner, side: "left", appStoreLink: "", googlePlayLink: "", youtubeLink: "", link: "" },
+
+ { title: "PARK MY CAR", color: "green", description: "Ready to run your very own parking lot? Simply tap where you want the cars to go and the elevator will take them there. Seems simple right? Well, sometimes other cars will be in the way and you'll have to move them.", image: ParkMyCar, side: "left", appStoreLink: "", googlePlayLink: "", youtubeLink: "", link: "" },
+
+ { title: "SPIRAL RUNNER", color: "green", description: "Climb to the top of the spiral before everyone else and claim the throne!
+
+- Collect wooden legs on your way up
+- Use them to create a shortcut to the next tier of the spiral
+- Enjoy life on the top", image: SpiralRunner, side: "left", appStoreLink: "", googlePlayLink: "", youtubeLink: "", link: "" },
+
+ { title: "MATH HEAD", color: "green", description: "Are you good at math?
+- Get the biggest number
+- Compete with two other players
+- Get to the finish line", image: MathHead, side: "left", appStoreLink: "", googlePlayLink: "", youtubeLink: "", link: "" },
+
+ { title: "POUR IT UP!", color: "green", description: "It's time to make some fresh drinks!
+
+Tap and hold to pour the liquid from the bottle.
+
+Fill glasses to the indicated point to win.", image: PourItUp, side: "left", appStoreLink: "", googlePlayLink: "", youtubeLink: "", link: "" },
+
+ { title: "BLOW SHOOT", color: "green", description: "It's time to take them down. Shoot the enemy hideout and blow up the enemies and buildings. Simply aim around to shoot and hide to avoid the enemy bullets.", image: BlowShoot, side: "left", appStoreLink: "", googlePlayLink: "", youtubeLink: "", link: "" },]
 
   return (
     <div >
